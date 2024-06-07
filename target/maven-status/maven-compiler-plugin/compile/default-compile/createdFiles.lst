@@ -1,0 +1,6 @@
+com\example\auth0api\configuration\security\SecurityConfiguration.class
+com\example\auth0api\controllers\AdminController.class
+com\example\auth0api\controllers\ClientController.class
+com\example\auth0api\Auth0ApiApplication.class
+com\example\auth0api\configuration\security\AudienceValidator.class
+com\example\auth0api\controllers\PublicController.class
